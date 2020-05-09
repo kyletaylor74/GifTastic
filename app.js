@@ -1,7 +1,7 @@
 
 $(document).ready(function(){
 
-    let videogames = ["Assassins Creed", "Super Mario Bros.", "Call of Duty"];
+    let videogames = ["Assassins Creed", "Super Mario Bros.", "Call of Duty","Mario Kart", "God Of War"];
 
     function vgButtons(arrayToUse, classToAdd, areaToAddTo){
         $(areaToAddTo).empty();

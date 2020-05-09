@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://wallpaperplay.com/walls/full/8/8/0/101179.jpg)
+        
+
+}
+
+.words {
+    color: white;
+    font-family: OCR A Std, monospace;
+}
+
+header{
+    text-align: center;
+    background-color:teal;
+    font-size: 35px;
+    border: solid 1px, white;
+}
+
+
+form{
+    float: right;
+}
+
+.size{
+    width: 250px;
+}
