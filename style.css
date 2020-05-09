@@ -21,6 +21,13 @@ form{
     float: right;
 }
 
-.size{
+#images{
     width: 250px;
+}
+.space{
+    background-color: magenta;
+}
+button{
+    background-color: yellow;
+    margin:2px ;
 }
